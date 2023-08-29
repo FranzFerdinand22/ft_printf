@@ -35,7 +35,7 @@ The key to a successful **ft_printf** is well-structured and good extensible cod
 
 To compile run `$ make`
 
-To clean 'o' files run `$ make clean`
+To clean '.o' files run `$ make clean`
 
 
 
