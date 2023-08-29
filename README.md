@@ -29,7 +29,7 @@ The key to a successful **ft_printf** is well-structured and good extensible cod
 -  `%%` print a percent sign
 
 
-### **How to use it?**
+### 🛠️  **How to use it?**
 
 **Compilation:**
 
