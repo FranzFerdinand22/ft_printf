@@ -39,7 +39,7 @@ To clean 'o' files run `$ make clean`
 
 
 
-**To use it in code nclude header:**
+**To use it in code include header:**
 
 ```c
 #include "ft_printf.h"
