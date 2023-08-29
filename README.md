@@ -38,9 +38,9 @@ To compile run `$ make`
 To clean 'o' files run `$ make clean`
 
 
-**Using it in code:**
 
-Include header
+**To use it in code nclude header:**
+
 ```c
 #include "ft_printf.h"
 ```
