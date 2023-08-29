@@ -32,7 +32,9 @@ The key to a successful **ft_printf** is well-structured and good extensible cod
 ### **How to use it?**
 
 **Compilation**
-To compile run: 'make'
+
+To compile run: `make`
 
 **Using it in code**
-include its header: '#include "ft_printf.h"'
+
+Include header: `#include "ft_printf.h"`
