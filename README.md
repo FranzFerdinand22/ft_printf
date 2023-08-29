@@ -16,7 +16,7 @@ The key to a successful **ft_printf** is well-structured and good extensible cod
 - It will manage the following conversions: **cspdiuxX%**
 - You must use the command **ar** to create your librairy, using the command **libtool** is forbidden
 
-### 🗒️  **A small description of the required conversion:**
+### 📝  **A small description of the required conversion:**
 
 -  `%c` print a single character
 -  `%s` print a string of characters
