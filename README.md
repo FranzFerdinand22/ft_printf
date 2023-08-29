@@ -34,6 +34,7 @@ The key to a successful **ft_printf** is well-structured and good extensible cod
 **Compilation**
 
 To compile run: `make`
+To clean 'o' files run: `make clean`
 
 **Using it in code**
 
