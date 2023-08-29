@@ -6,7 +6,7 @@ The aim of this project is to recode **printf** function and be able to reuse it
 It is primarily about learning what **variadic functions** are and how to work with them.
 The key to a successful **ft_printf** is well-structured and good extensible code.
 
-###  🖥️ **School instructions for the project:**
+###  🖥️  **School instructions for the project:**
 
 - project must be written in accordance with the **42 Norm**
 - allocated memory space must be properly freed -> **No leaks!**
@@ -16,7 +16,7 @@ The key to a successful **ft_printf** is well-structured and good extensible cod
 - It will manage the following conversions: **cspdiuxX%**
 - You must use the command **ar** to create your librairy, using the command **libtool** is forbidden
 
-### **A small description of the required conversion:**
+### 🗒️  **A small description of the required conversion:**
 
 -  `%c` print a single character
 -  `%s` print a string of characters
