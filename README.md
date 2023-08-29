@@ -27,3 +27,12 @@ The key to a successful **ft_printf** is well-structured and good extensible cod
 -  %x print a number in hexadecimal (base 16), with lowercase
 -  %X print a number in hexadecimal (base 16), with uppercase
 -  %% print a percent sign
+
+
+### **How to use it?**
+
+**Compilation**
+To compile run: 'make'
+
+**Using it in code**
+include its header: '#include "ft_printf.h"'
