@@ -4,3 +4,4 @@ Recoded **_printf()_** function from libc :printer:
 ### **What is ft_printf?**
 The aim of this project is to recode **printf** function and be able to reuse it in future projects.
 It is primarily about learning what **variadic functions** are and how to work with them.
+The key to a successful **ft_printf** is well-structured and good extensible code.
