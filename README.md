@@ -41,6 +41,6 @@ To clean 'o' files run: `$ make clean`
 
 Include header: 
 
-```
+```c
 #include "ft_printf.h"
 ```
