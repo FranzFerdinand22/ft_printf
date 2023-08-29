@@ -39,4 +39,6 @@ To clean 'o' files run: `make clean`
 
 **Using it in code**
 
-Include header: `#include "ft_printf.h"`
+Include header: 
+
+`#include "ft_printf.h"`
